@@ -1,5 +1,24 @@
 /*Arquivo CSS*/
 /*=========CONFIGURAÇÕE GERAIS=========*/
 *{
-    background-color: blueviolet;
+    margin: 0;
+    top: 0;
+}
+
+/*===========================MENU======================*/
+.menu-links {
+    margin-right: 30px;
+}
+.menu-links li{
+    margin-left: 12px;
+}
+.menu-links li a{
+  color: #333 !important;
+  font-size: 18px;
+}
+
+.menu-links li a:hover{
+   /*background-color: #4c87f3 !important;*/
+   color: #4c87f4 !important;
+   border-radius: 5px;
 }
