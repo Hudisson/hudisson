@@ -6,6 +6,11 @@
 }
 
 /*===========================MENU======================*/
+.link-p1 img{
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
 .menu-links {
     margin-right: 30px;
 }
@@ -13,12 +18,100 @@
     margin-left: 12px;
 }
 .menu-links li a{
-  color: #333 !important;
+  color: #2b2121 !important;
   font-size: 18px;
 }
 
 .menu-links li a:hover{
-   /*background-color: #4c87f3 !important;*/
    color: #4c87f4 !important;
+   font-weight: bold
    border-radius: 5px;
+}
+
+/*===========================CARTÕES=DOS=PROJETOS==================*/
+.titulo-cards{
+    text-align: center;
+}
+
+.titulo-cards ~p{
+    text-align: center;
+}
+
+.btn-cards-projeros{
+   width: 150px;
+   margin-left: 75px;
+}
+
+.box-btn-todos-projetos{
+    margin-top: 50px;
+    width: 100%;
+}
+
+.btn-todos-projetos{
+    margin-left: 40%;
+}
+
+/*===================================CONTATOS========================*/
+
+/*==================================RODAPÉ===========================*/
+
+.midias > p{
+	color: #f5dcdc;
+	margin-top: 10px;
+	padding: 5px;
+}
+.midias > a span i{
+	font-size: 30px !important;
+	margin: 0px 5px;
+	padding: 5px 5px;
+	cursor: pointer;
+}
+
+section .section-title {
+    text-align: center;
+    color: #007b5e;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+#footer {
+    background: #1f344b !important;
+}
+#footer a {
+    color: #ffffff;
+    text-decoration: none !important;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+@media (max-width:767px){
+	#footer h5 {
+    padding-left: 0;
+    border-left: transparent;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+}
+
+/*==================================MOBILE==========================*/
+
+/*Introdução*/
+@media screen and (min-width: 320px) and (max-width: 520px){
+    .menu-superior > .btn-menu-mobile{
+        background-color: #4578d6;
+        margin-right: 10px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 520px){
+	.introducao{
+        margin-top: 40px;
+    }
+
+   /*Cartões dos projetos*/ 
+    .btn-todos-projetos{
+        margin-left: 15%;
+    }
+
+	
 }
