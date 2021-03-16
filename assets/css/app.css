@@ -5,6 +5,15 @@
     top: 0;
 }
 
+.btn-padroes{
+    background-image: linear-gradient(to right, #3a1e1e , #ff8800) !important;
+    border-style: none;
+}
+
+.btn-padroes:hover{
+    background-image: linear-gradient(to right, #2e4a74 , #09598f) !important;
+}
+
 /*===========================MENU======================*/
 .link-p1 img{
     border-radius: 50%;
@@ -23,7 +32,7 @@
 }
 
 .menu-links li a:hover{
-   color: #4c87f4 !important;
+   color: #4578d6 !important;
    font-weight: bold
    border-radius: 5px;
 }
@@ -38,8 +47,13 @@
 }
 
 .btn-cards-projeros{
+   border-style: none;
    width: 150px;
    margin-left: 75px;
+}
+
+.btn-cards-projeros:hover{
+    background-image: linear-gradient(to right, #2e4a74 , #09598f) !important;
 }
 
 .box-btn-todos-projetos{
@@ -50,9 +64,23 @@
 .btn-todos-projetos{
     margin-left: 40%;
 }
+.btn-todos-projetos:hover{
+    background-image: linear-gradient(to right, #2e4a74 , #09598f) !important;
+}
+
 
 /*===================================CONTATOS========================*/
+#contato{
+    margin-top: 40px;
+}
 
+.link-email{
+    color: #2e4a74;
+    text-decoration: none;
+}
+.link-email:hover{
+    color: #2e4a74;
+}
 /*==================================RODAPÉ===========================*/
 
 .midias > p{
@@ -75,6 +103,7 @@ section .section-title {
 }
 
 #footer {
+    margin-top: 40px;
     background: #1f344b !important;
 }
 #footer a {
@@ -86,11 +115,11 @@ section .section-title {
 
 @media (max-width:767px){
 	#footer h5 {
-    padding-left: 0;
-    border-left: transparent;
-    padding-bottom: 0px;
-    margin-bottom: 10px;
-}
+        padding-left: 0;
+        border-left: transparent;
+        padding-bottom: 0px;
+        margin-bottom: 10px;
+    }
 }
 
 /*==================================MOBILE==========================*/
