@@ -1,8 +1,10 @@
+
 <div>
 <a href="https://github.com/hudisson">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudisson&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hudisson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+<hr
 
 ### Desenvolvimento Web
 <div>
@@ -22,12 +24,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" />        
 </div>
+<hr>
 
 ### Projetos
   <li>
-      <b>Upload de arquivos em PHP:</b> <a href="https://github.com/Hudisson/Upload-multiplo-de-arquivos/">Ir ao repositório</a>
+    <b>Upload de arquivos em PHP:</b> <a href="https://github.com/Hudisson/Upload-multiplo-de-arquivos/">Ir ao repositório</a>
   </li>
-
+<hr>
   
 ### Contato
 <div>
