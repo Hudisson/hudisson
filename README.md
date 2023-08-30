@@ -26,7 +26,7 @@
     <b>Upload de arquivos em PHP:</b> <a href="https://github.com/Hudisson/Upload-multiplo-de-arquivos/">Ir ao repositório</a>
   </li>
   <li align="center">
-    <b>Outro projeto em breve:</b> <a href="#">Ir ao repositório</a>
+    <b>Bot Telegram com php:</b> <a href="https://github.com/Hudisson/botTelegram-php">Ir ao repositório</a>
   </li>
   <li align="center">
     <b>Outro projeto em breve:</b> <a href="#">Ir ao repositório</a>
