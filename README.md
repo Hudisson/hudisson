@@ -2,10 +2,11 @@
 <a href="https://github.com/hudisson">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudisson&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hudisson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
 </div>
-<hr>
+___
 
-<h3 align="center"> 🛠 Stack </h3>
+## 🛠 Habilidades 
 <div align="center">
   
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -19,10 +20,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 </div>
-<hr>
 
-<hr>
-## Contatos
-[![Icone do Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hudisson_xavier)
+___
+
+## Contato
+
+[![Icone do Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hudisson)
 [![Icone do Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@hudissonxavier@gmail.com)
 [![Icone do Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudisson-xavier)
