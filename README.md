@@ -1,8 +1,8 @@
 <div align="center">
-<a href="https://github.com/hudisson">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudisson&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hudisson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
+  <a href="https://github.com/hudisson">
+    <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudisson&layout=compact&langs_count=8&theme=dracula&hide_progress=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hudisson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 ___
 
