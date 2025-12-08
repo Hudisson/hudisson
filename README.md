@@ -1,30 +1,31 @@
-<div align="center">
-  <a href="https://github.com/hudisson">
-    <img height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudisson&layout=compact&langs_count=8&theme=dracula&hide_progress=true"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=hudisson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+# Hudisson Xavier
 
-___
+👋 Olá! Bem-vindo ao meu GitHub
+
+Sou um desenvolvedor com foco em Java, PHP, Spring Boot e Laravel. Aqui você encontrará projetos, estudos e experimentos que refletem minha evolução constante no desenvolvimento de software. Busco sempre aprender novas tecnologias e escrever código que colabora com soluções que gerem impacto real.
 
 ## 🛠 Habilidades 
-<div align="center">
-  
+
+
+![Srpring boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
+![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=openjdk&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=openjdk&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Cpp](https://img.shields.io/badge/-Cpp-05122A?style=flat&logo=cplusplus)&nbsp;
+
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-</div>
+
 
 ___
 
 ## Contato
 
-[![Icone do Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hudisson_xavier)
-[![Icone do Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@hudissonxavier@gmail.com)
 [![Icone do Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudisson-xavier)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlesites&logoColor=white)](URL_DO_SITE_AQUI)
+[![Icone do Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@hudissonxavier@gmail.com)
