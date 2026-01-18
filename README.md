@@ -29,6 +29,5 @@ Sou um desenvolvedor com foco em Java, PHP, Spring Boot e Laravel. Aqui você en
 [![Icone do Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudisson-xavier)
 [![Portfolio](https://img.shields.io/badge/Portfolio-228B22?style=for-the-badge&logo=googlesites&logoColor=white)](URL_DO_SITE_AQUI)
 [![Icone do Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatohudissonxavier@gmail.com)
-[![Portfolio](https://img.shields.io/badge/WhatsApp-25B366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5582981511630?text=Ol%C3%A1%2C%20quero%20falar%20com%20o%20desenvolvedor%20Hudisson%20Xavier.)
 
 
