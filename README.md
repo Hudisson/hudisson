@@ -2,7 +2,8 @@
 
 ### 👋 Olá! Bem-vindo(a) ao meu GitHub
 
-Sou um desenvolvedor com foco em Java, PHP, Spring Boot e Laravel. Aqui você encontrará projetos, estudos e experimentos que refletem minha evolução constante no desenvolvimento de software. Busco sempre aprender novas tecnologias e escrever código que colabora com soluções que gerem impacto real.
+Desenvolvedor especializado em PHP e Laravel, Java e Spring Boot. Tenho interesse em arquitetura de software, APIs REST, Docker e boas práticas de desenvolvimento. Meu objetivo é criar soluções escaláveis e de qualidade.
+
 ***
 
 ### 🛠 Habilidades 
