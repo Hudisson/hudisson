@@ -32,6 +32,7 @@ Desenvolvedor especializado em PHP e Laravel, Java e Spring Boot. Tenho interess
 
 🇺🇸 English (Basic)
 
+***
 
 ### Contato
 
