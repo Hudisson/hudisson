@@ -6,13 +6,16 @@ Desenvolvedor especializado em PHP e Laravel, Java e Spring Boot. Tenho interess
 
 ***
 
-### 🛠 Habilidades 
+### 🛠 Tecnologias 
 
-
-![Srpring boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
-![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=openjdk&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+
+![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=openjdk&logoColor=white)&nbsp;
+![Srpring boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
+
+
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
